@@ -1,0 +1,21 @@
+h2 {
+  
+  text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman';
+    text-align: center;
+    text-transform: capitalize;
+    
+  }
+  svg {
+    overflow: visible;
+    margin: 10px 50px;
+  }
+  
+  .axis text {
+    font-size: 12px;
+  }
+
+  
